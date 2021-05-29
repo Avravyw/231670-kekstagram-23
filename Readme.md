@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Илья Балашов](https://up.htmlacademy.ru/javascript/23/user/231670).
-* Наставник: Андрей Устименко.
+* Наставник: [Андрей Устименко](https://htmlacademy.ru/profile/spiritmoon).
 
 ---
 
